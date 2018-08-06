@@ -10,6 +10,8 @@ function nowServing(queue){
   return "Currently serving " + queue.shift() + "."
 }
 
+*/ test somethin what what code!
+
 function currentLine(queue){
   var startStr = "The line is currently"
 
